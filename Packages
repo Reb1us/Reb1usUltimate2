@@ -1,13 +1,13 @@
-Package: com.reb1us.blurry
-Version: 1.0.2
+Package: com.reb1us.continuity
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TeamReb1us <teamreb1us@gmail.com>
-Filename: /Blurry.deb
-Size: 42668
-MD5sum: BAC60E5632F4261FEDD071462350734B
-SHA1: 4ED33602070B978E4E63C984A47A7799D37C45CF
-SHA256: 0D70A90D339DF43A4FF6145EA6B5E0071A49217DAA3FB019089FA1F0897D34BA
+Filename: /Continuity.deb
+Size: 269582
+MD5sum: 1A550E209DDA9648C2F44502FB490CCA
+SHA1: 7B0060F2BDFF5A7A0F372C75FEE9223A21982B3E
+SHA256: 51EAEB1D3DEEB4809F75AAACF86FEA8794DC8F1BD30DB69A030883C530328105
 Section: Tweaks
-Description: Big buttons on lockscreen for alarms, bedtime alarms and timers! Alarms set with Snooze will have TWO buttons.
+Description: Scroll ur wallpaers when u swipe ur homescreen
 Author: gilshahar7 (teamreb1us@gmail.com)
-Name: Blurry
+Name: Continuity
