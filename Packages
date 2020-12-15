@@ -1,4 +1,4 @@
-Package: com.TeamReb1us.BigSnooze
+Package: com.teamreb1us.bigsnooze
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: TeamReb1us <teamreb1us@gmail.com>
@@ -12,7 +12,7 @@ Description: Big buttons on lockscreen for alarms, bedtime alarms and timers! Al
 Author: TeamReb1us (teamreb1us@gmail.com)
 Name: BigSnooze iOS14
 
-Package: com.TeamReb1us.Continuity
+Package: com.teamreb1us.continuity
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TeamReb1us <teamreb1us@gmail.com>
