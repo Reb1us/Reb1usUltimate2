@@ -11,3 +11,17 @@ Section: Tweaks
 Description: Big buttons on lockscreen for alarms, bedtime alarms and timers! Alarms set with Snooze will have TWO buttons.
 Author: TeamReb1us (teamreb1us@gmail.com)
 Name: BigSnooze iOS14
+
+Package: com.TeamReb1us.Continuity
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TeamReb1us <teamreb1us@gmail.com>
+Filename: /Continuity.deb
+Size: 42668
+MD5sum: 1D3227F29B862E1C5A0DD4A3887595C6
+SHA1: B586FDA836FD29C7A5352F0802D48CE2AEB6B8CC
+SHA256: 1A8DE6767913013C288376230CAAD0FB61236B8C7E680920B92894AC63F95AF9
+Section: Tweaks
+Description: just Enjoy
+Author: TeamReb1us (teamreb1us@gmail.com)
+Name: Continuity
